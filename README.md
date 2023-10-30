@@ -1,1 +1,1 @@
-# CodeClauseInternship_ail-ApplicationWithGUI
+# CodeClauseInternship_MailApplicationWithGUI
